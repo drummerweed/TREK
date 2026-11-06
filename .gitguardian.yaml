@@ -1,0 +1,14 @@
+version: 2
+secret:
+  ignored_paths:
+    - "**/tests/**"
+    - "**/*.test.ts"
+    - "**/*.test.tsx"
+    - "**/client/e2e/**"
+    - "**/migrate-encryption.ts"
+    - "**/seeds.ts"
+    - "**/authService.ts"
+    - "**/synologyService.ts"
+    - "**/LoginPage.tsx"
+    - "**/AdminPage.tsx"
+    - "**/translations/it.ts"

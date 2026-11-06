@@ -64,3 +64,5 @@ test-data
 
 .run
 .full-review
+# Added by ggshield
+.cache_ggshield
